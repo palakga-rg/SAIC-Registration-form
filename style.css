@@ -48,7 +48,7 @@ form .heading{
   font-weight: 500;
   position: relative;
   backdrop-filter: saturate(100%) blur(10 px) !important; 
- overflow: auto;
+
 }
 .container .title::before{
   content: "";
@@ -59,7 +59,7 @@ form .heading{
   width: 30px;
   border-radius: 5px;
   background: linear-gradient(135deg, #71b7e6, #9b59b6);
-  overflow: auto;
+
 }
 .content form .user-details{
   display: flex;
